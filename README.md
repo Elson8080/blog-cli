@@ -1,7 +1,9 @@
 
 ## Live Preview
 
-* :heart_decoration: Muse scheme: [Xulayen](http://xulayen.imwork.net/) 
+参考blog配置：https://github.com/xulayen/Blog
+
+* :heart_decoration: Muse scheme: [liuxindi](https://elson8080.github.io/) 
 
 ## Useage
 
@@ -36,3 +38,6 @@ npm install
 hexo server
 
 ```
+
+
+
