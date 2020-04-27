@@ -40,4 +40,19 @@ hexo server
 ```
 
 
+## 创建新的 Blog
+
+```bash
+
+hexo new post <title>
+
+```
+
+## 发布
+
+``` bash
+hexo deploy
+```
+
+
 
